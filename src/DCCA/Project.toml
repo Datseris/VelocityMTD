@@ -1,0 +1,9 @@
+name = "DCCA"
+uuid = "2d131a96-e982-48bd-9ca0-743ea1e04a2f"
+authors = ["Corentin Nelias"]
+version = "0.1.0"
+
+[deps]
+Polynomials = "f27b6e38-b328-58d1-80ce-0feddd5e7a45"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
